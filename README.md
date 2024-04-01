@@ -11,7 +11,11 @@
 
 This is assessment having functionality of feedback and comments systems.
 
-To run this project clone this project and make .env.example to .env file.
+To run this project clone this project and make env.example to .env file.
+
+## Commands
+composer install <br>
+npm install<br>
 
 Create a mysql database and write credentials of database in .env file.
 
